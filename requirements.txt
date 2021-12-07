@@ -1,0 +1,12 @@
+future==0.18.2
+geographiclib==1.52
+geopy==2.2.0
+iso8601==0.1.14
+numpy==1.20.3
+opencv-python==3.4.6.27
+pkg-resources==0.0.0
+pynmea2==1.18.0
+pyserial==3.4
+pyttsx3==2.90
+PyYAML==5.4.1
+tflite-runtime==2.5.0
